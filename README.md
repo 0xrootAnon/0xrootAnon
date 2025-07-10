@@ -40,17 +40,11 @@ Currently, I’m focused on:
 
 ---
 
-##  GitHub Stats
+##  Contribution Graph
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xrootAnon&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=0xrootAnon&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github.com/0xrootAnon/0xrootAnon/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xrootAnon&layout=compact&theme=tokyonight" />
-</p>
-
 
 ---
 
