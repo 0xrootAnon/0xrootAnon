@@ -1,4 +1,4 @@
-# Khwahishiscooking
+# khwahishiscooking
 **Developer. Builder. Minimalist in Code & Design.**  
 Obsessed with clean code, powerful web apps, and scalable cloud-first solutions.
 
