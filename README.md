@@ -19,6 +19,13 @@ C C++ Python Java
 
 ### Reach Out
 - sharmag.khwahish@gmail.com
+  
+---
 
+If you have any projects where I could contribute, I’d love to be a part of them!
+For any questions or collaboration inquiries, feel free to reach out to me on X or via email, I’m always happy to help.
+If you find my work helpful, a follow would mean a lot and truly support what I do.
+
+---
 This space is quiet for now. Projects coming soon.  
 Stay curious.
