@@ -40,7 +40,7 @@ Currently, I’m focused on:
 
 ---
 
-##  Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github.com/0xrootAnon/0xrootAnon/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
