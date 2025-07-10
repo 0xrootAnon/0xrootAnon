@@ -21,7 +21,7 @@ Currently, I’m focused on:
 ##  Philosophy
 
 > *"I don’t chase trends. I build what works."*  
-> *Clean code, clear thinking, and quiet execution — that’s the focus.*
+> *Clean code, clear thinking, and quiet execution, that’s the focus.*
 
 ---
 
@@ -80,7 +80,7 @@ Every follow keeps me motivated and helps me reach more devs like you.
 
 -  A logic-focused repo to master programming patterns  
 -  Cloud-first architecture starter kits  
--  Personal Portfolio (from scratch — no templates, no fluff)  
+-  Personal Portfolio (from scratch: no templates, no fluff)  
 -  Open source tools, notes, and mini projects
 
 ---
