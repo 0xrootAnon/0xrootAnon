@@ -43,12 +43,12 @@ Currently, I’m focused on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khwahishiscooking&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khwahishiscooking&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0xrootAnon&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0xrootAnon&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khwahishiscooking&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xrootAnon&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@ Currently, I’m focused on:
 
 ##  Reach Out
 
- **sharmag.khwahish@gmail.com**  
+ Mail at : **sharmag.khwahish@gmail.com**  
  DM me on **[X (Twitter)](https://twitter.com/sharmagkhwahish)**  
  Open to **collaborations, mentorships, freelance gigs, and team invites.**
 
