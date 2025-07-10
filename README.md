@@ -40,16 +40,17 @@ Currently, I’m focused on:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xrootAnon&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=0xrootAnon&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xrootAnon&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=0xrootAnon&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xrootAnon&layout=compact&theme=tokyonight" height="150"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xrootAnon&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
