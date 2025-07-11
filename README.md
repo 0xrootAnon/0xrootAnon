@@ -17,12 +17,12 @@ Currently, I’m focused on:
 -  Pushing meaningful projects and open-source work
 
 ---
-
-##  Philosophy
+<details>
+##  <summary>Philosophy</summary>
 
 > *"I don’t chase trends. I build what works."*  
 > *Clean code, clear thinking, and quiet execution, that’s the focus.*
-
+</details>
 ---
 
 ## Tech Stack
