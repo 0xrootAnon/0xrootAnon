@@ -47,6 +47,9 @@ Currently, I’m focused on:
 </p>
 
 --->
+### GitHub Activity Snake
+
+![GitHub Snake dark](https://github.com/0xrootAnon/0xrootAnon/blob/output/github-snake-dark.svg)
 
 ---
 
