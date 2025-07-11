@@ -20,7 +20,7 @@ Currently, I’m focused on:
 
 <h3>Philosophy</h3>
 <details>
-##  <summary>Philosophy</summary>
+  <summary>Expand</summary>
 
 > *"I don’t chase trends. I build what works."*  
 > *Clean code, clear thinking, and quiet execution, that’s the focus.*
@@ -28,7 +28,9 @@ Currently, I’m focused on:
 
 ---
 
-## Tech Stack
+<h2>Tech Stack</h2>
+<details>
+<summary>Tech Stack</summary>
 
 | Category | Tools |
 |---------|-------|
@@ -40,7 +42,7 @@ Currently, I’m focused on:
 | **Programming Languages** | C, Python, Java |
 | **Design & Automation** | Figma, Blender, n8n |
 | **Stacks** | MERN Stack, T3 Stack |
-
+</details>
 
 ![GitHub Snake dark](https://github.com/0xrootAnon/0xrootAnon/blob/output/github-snake-dark.svg)
 
