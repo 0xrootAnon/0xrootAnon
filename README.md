@@ -38,18 +38,15 @@ Currently, I’m focused on:
 | **Design & Automation** | Figma, Blender, n8n |
 | **Stacks** | MERN Stack, T3 Stack |
 
-<!---
+---
 
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/0xrootAnon/0xrootAnon/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
---->
-### GitHub Activity Snake
 
 ![GitHub Snake dark](https://github.com/0xrootAnon/0xrootAnon/blob/output/github-snake-dark.svg)
+
+</p>
 
 ---
 
