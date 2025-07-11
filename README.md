@@ -42,11 +42,7 @@ Currently, I’m focused on:
 
 ## Contribution Graph
 
-<p align="center">
-
 ![GitHub Snake dark](https://github.com/0xrootAnon/0xrootAnon/blob/output/github-snake-dark.svg)
-
-</p>
 
 ---
 
