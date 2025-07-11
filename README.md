@@ -26,7 +26,7 @@ Currently, I’m focused on:
 ---
 
 ## Tech Stack
-
+<center>
 | Category | Tools |
 |---------|-------|
 | **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Vue.js, Tailwind CSS, Vite, GSAP, Three.js |
@@ -34,10 +34,10 @@ Currently, I’m focused on:
 | **Databases & Services** | MongoDB, Supabase, MySQL |
 | **Build Tools & Env** | Git, Linux CLI, Rollup |
 | **Cloud & DevOps** | AWS (EC2, S3), Docker, CI/CD |
-| **Programming Languages** | C, C++, Python, Java |
+| **Programming Languages** | C, Python, Java |
 | **Design & Automation** | Figma, Blender, n8n |
 | **Stacks** | MERN Stack, T3 Stack |
-
+</center>
 
 ![GitHub Snake dark](https://github.com/0xrootAnon/0xrootAnon/blob/output/github-snake-dark.svg)
 
