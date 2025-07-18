@@ -21,23 +21,27 @@ Currently, I’m focused on:
 > *Clean code, clear thinking, and quiet execution, that’s the focus.*
 
 ---
-
-<h2>Tech Stack</h2>
-
-<details>
-<summary>Click to view</summary>
-
-| Category | Tools |
-|---------|-------|
-| **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Vue.js, Tailwind CSS, Vite, GSAP, Three.js |
-| **Backend** | Node.js, Express.js, GoLang, REST APIs |
-| **Databases & Services** | MongoDB, Supabase, MySQL |
-| **Build Tools & Env** | Git, Linux CLI, Rollup |
-| **Cloud & DevOps** | AWS (EC2, S3), Docker, CI/CD |
-| **Programming Languages** | C, Python, Java |
-| **Design & Automation** | Figma, Blender, n8n |
-| **Stacks** | MERN Stack, T3 Stack |
-</details>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" alt="TailwindCSS" />
+  &nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  &nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50" alt="Express.js" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" height="50" alt="Supabase" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Golang" />
+</p>
 
 
 ![GitHub Snake dark](https://github.com/0xrootAnon/0xrootAnon/blob/output/github-snake-dark.svg)
