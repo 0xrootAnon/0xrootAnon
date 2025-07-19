@@ -49,7 +49,7 @@ Currently, I’m focused on:
 
 ##  Reach Out
 
- Mail at : **sharmag.khwahish@gmail.com**  
+ Mail at : **dev.khwahish@gmail.com**  
  DM me on **[X (Twitter)](https://twitter.com/sharmagkhwahish)**  
  Open to **collaborations, mentorships, freelance gigs, and team invites.**
 
