@@ -7,13 +7,13 @@ Obsessed with clean code, powerful web apps, and scalable cloud-first solutions.
 ##  About Me
 
 Hi, I’m **Khwahish**,  a passionate **Backend Developer** and **Cloud Engineer**.  
-I craft fast, responsive, and secure web applications using modern stacks and cloud-native tools.
+I craft fast, responsive, and secure stuff using modern stacks and cloud-native tools.
 
 > *“I'm a developer. ~~I break things,~~ I fix things, and I build things that matter.”*
 
 Currently, I’m focused on:
 -  Building my handcrafted **personal portfolio**
--  Mastering scalable full stack & cloud architecture
+-  Mastering scalable backend & cloud architecture
 -  Pushing meaningful projects and open-source work
 
 
