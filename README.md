@@ -22,19 +22,24 @@ Currently, I’m focused on:
 
 ---
 <p align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"height="50" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Golang" />
   &nbsp;
-  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="50" alt="Gin" />
+   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="50" alt="AWS" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
-  &nbsp;
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
   &nbsp;
- <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="50" alt="AWS" />
+
 </p>
 
 
@@ -64,20 +69,7 @@ Every follow keeps me motivated and helps me reach more devs like you.
 
 ---
 
-<h2>What’s Coming Soon?</h2>
 
-<details>
-  
-  <summary>Click to view</summary>
-  
--  A logic-focused repo to master programming patterns  
--  Cloud-first architecture starter kits  
--  Personal Portfolio (from scratch: no templates, no fluff)  
--  Open source tools, notes, and mini projects
-  
-</details>
-
----
 
 > Stay curious. Stay consistent.  
 > Let’s build something that matters.
