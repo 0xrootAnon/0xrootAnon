@@ -58,9 +58,24 @@ Currently, I’m focused on:
 </p>
 
 <!--![GitHub Snake dark](https://github.com/0xrootAnon/0xrootAnon/blob/output/github-snake-dark.svg)-->
+<!--
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=0xrootAnon&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+</p>
+
+<p align="center">
+   <img src="https://nirzak-streak-stats.vercel.app/?user=0xrootAnon&theme=dark&hide_border=false">
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=0xrootAnon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=0xrootAnon&theme=dark&hide_border=false)<br/>
+-->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=0xrootAnon&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="github-stats" width="420" /></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=0xrootAnon&theme=dark&hide_border=false" alt="streak" width="420" /></td>
+  </tr>
+</table>
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xrootAnon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
