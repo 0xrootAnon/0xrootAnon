@@ -17,21 +17,12 @@ Obsessed with clean code, powerful web apps, and scalable cloud-first solutions.
 
 ##  About Me
 
-Hi, I’m **Khwahish**,  a passionate **Backend Developer** and **Associate Software Engineer**.  
-I craft fast, responsive, and secure stuff using modern stacks and cloud-native tools.
+Hi, I’m **Khwahish**,  a passionate **Backend Developer** and **Associate Software Engineer**.  I craft fast, responsive, and secure stuff using modern stacks and cloud-native tools.
 
-> *“I'm a developer. ~~I break things,~~ I fix things, and I build things that matter.”*
-
-Currently, I’m focused on:
--  Building my handcrafted **personal portfolio**
--  Mastering scalable backend & cloud architecture
--  Pushing meaningful projects and open-source work
-
-
-> *"I don’t chase trends. I build what works."*  
-> *Clean code, clear thinking, and quiet execution, that’s the focus.*
+> *I'm a developer. ~~I break things,~~ I fix things, and I build things that matter.* *I don’t chase trends. I build what works.*  
 
 ---
+
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
   &nbsp;
