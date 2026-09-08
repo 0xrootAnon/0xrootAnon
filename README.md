@@ -58,9 +58,11 @@ Obsessed with clean code, powerful web apps, and scalable cloud-first solutions.
   &nbsp;
 </p>
 -->
+<!--
 <p align="center">
    <img src="https://github.com/kwhx/kwhx/blob/output/github-snake-dark.svg">
 </p>
+-->
 <!--
 > Stay curious. Stay consistent.  
 > Let’s build something that matters.
