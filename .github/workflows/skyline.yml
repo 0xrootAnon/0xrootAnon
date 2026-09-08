@@ -1,0 +1,23 @@
+name: Metrics - Skyline
+
+on:
+  schedule:
+    - cron: "0 3 1 * *" 
+  workflow_dispatch:     
+
+jobs:
+  skyline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: skyline.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: metrics
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 0     
+          plugin_skyline_frames: 30    
+          plugin_skyline_quality: 0.6   
