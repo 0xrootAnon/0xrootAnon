@@ -8,11 +8,8 @@ Obsessed with clean code, powerful web apps, and scalable cloud-first solutions.
 </p>-->
 ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -23,8 +20,6 @@ Obsessed with clean code, powerful web apps, and scalable cloud-first solutions.
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
 ![XFCE](https://img.shields.io/badge/XFCE-000000?style=flat-square&logo=xfce&logoColor=white)
@@ -35,7 +30,7 @@ Obsessed with clean code, powerful web apps, and scalable cloud-first solutions.
 
 <!--##  About Me-->
 
-*Hi, I’m **Khwahish**,  a **Backend Developer**, I fix things, ~~I break things,~~, and I build things that matter.* *I don’t chase trends. I build what works*
+I make backends behave. Occasionally
 
 
 <!--
